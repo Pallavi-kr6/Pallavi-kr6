@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pallavi-kr6
 - 👀 I’m exploring new things
-- 🌱 I’m currently learning ...Programming language more specifically C,java
+- 🌱 I’m currently learning ...MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pallavisingh1536@gmail.com
 - 😄 Pronouns: ...she/her
