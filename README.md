@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @Pallavi-kr6
-- 👀 I’m exploring new things
-- 🌱 I’m currently learning ...MERN STACK
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...pallavisingh1536@gmail.com
-- 😄 Pronouns: ...she/her
--[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavi_kr6/)
+# 👋 Hi, I’m Pallavi Singh
 
+💡 I’m passionate about **exploring new things** and building projects that make an impact.  
+🌱 Currently learning **MERN Stack Development**.  
+🤝 Looking to collaborate on **interesting open-source and web development projects**.  
+😄 Pronouns: **she/her**  
 
-<!---
-Pallavi-kr6/Pallavi-kr6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-kr6/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavi_kr6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavisingh1536@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *"Keep learning, keep building, keep growing!"*
