@@ -23,9 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)  
+## 📊 GitHub 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
 
 
