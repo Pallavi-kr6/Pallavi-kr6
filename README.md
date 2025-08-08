@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pallavi Singh
+# 👋 Hi, I’m Pallavi 
 
 💡 I’m passionate about **exploring new things** and building projects that make an impact.  
 🌱 Currently learning **MERN Stack Development**.  
@@ -25,9 +25,7 @@
 
 ## 📊 GitHub Stats
 
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
 
----
 
-⭐ *"Keep learning, keep building, keep growing!"*
