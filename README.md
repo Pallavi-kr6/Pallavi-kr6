@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Other Tools:** Git, GitHub, VS Code  
