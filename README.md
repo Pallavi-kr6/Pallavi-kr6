@@ -38,12 +38,13 @@
  
 
 ## 📊 GitHub Stats  
-
-### ⭐ Overall Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)
+  
+![Pallavi's GitHub stats](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/overview.svg#only-light)
+![Pallavi's GitHub stats](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### 🔥 Top Languages  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
+![Top Languages](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/languages.svg#only-light)
+![Top Languages](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ---
