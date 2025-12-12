@@ -40,26 +40,17 @@
 ## 📊 GitHub Stats  
 
 ### ⭐ Overall Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)
 
 ### 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
+
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-> Works only on public profiles — looks amazing!
+ 
 
-![snake gif](https://github.com/Pallavi-kr6/Pallavi-kr6/blob/output/github-contribution-grid-snake.gif)
-
-*(If it doesn’t exist yet, I will generate the workflow for you — just tell me!)*
-
----
-
-## 🎉 Fun Fact  
-I’m a **slow but consistent learner** — I may take time, but I always finish what I start. 💙
-
----
+ 
 
 ## ✨ Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pallavi-kr6&style=for-the-badge)
