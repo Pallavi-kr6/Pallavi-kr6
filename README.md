@@ -36,23 +36,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavisingh1536@gmail.com)
 
  
-
-## 📊 GitHub Stats  
-  
-![Pallavi's GitHub stats](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/overview.svg#only-light)
-![Pallavi's GitHub stats](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-### 🔥 Top Languages  
-![Top Languages](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/languages.svg#only-light)
-![Top Languages](https://raw.githubusercontent.com/Pallavi-kr6/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
----
-
- 
-
- 
-
 ## ✨ Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pallavi-kr6&style=for-the-badge)
 
