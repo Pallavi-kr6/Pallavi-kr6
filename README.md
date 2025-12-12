@@ -1,29 +1,66 @@
-# 👋 Hi, I’m Pallavi 
+# 👋 Hi, I'm **Pallavi**  
 
-💡 I’m passionate about **exploring new things** and building projects that make an impact.  
-🌱 Currently learning **MERN Stack Development**.  
-🤝 Looking to collaborate on **interesting open-source and web development projects**.  
-😄 Pronouns: **she/her**  
-
----
-
-## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other Tools:** Git, GitHub, VS Code  
+💡 Passionate about **learning, exploring new things**, and building projects that create real impact.  
+🌱 Currently learning **MERN Stack Development** (MongoDB, Express, React, Node).  
+✨ Love collaborating on **open-source**, **web apps**, and beginner-friendly dev projects.  
+😄 Pronouns: **she/her**
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Tech Stack  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-kr6/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavi_kr6/)
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-kr6/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavi_kr6/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavisingh1536@gmail.com)
 
----
+ 
 
-## 📊 GitHub 
+## 📊 GitHub Stats  
+
+### ⭐ Overall Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-kr6&show_icons=true&theme=tokyonight)
+
+### 🔥 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-kr6&layout=compact&theme=tokyonight)
 
+---
+
+## 🐍 GitHub Contribution Snake  
+> Works only on public profiles — looks amazing!
+
+![snake gif](https://github.com/Pallavi-kr6/Pallavi-kr6/blob/output/github-contribution-grid-snake.gif)
+
+*(If it doesn’t exist yet, I will generate the workflow for you — just tell me!)*
+
+---
+
+## 🎉 Fun Fact  
+I’m a **slow but consistent learner** — I may take time, but I always finish what I start. 💙
+
+---
+
+## ✨ Visitor Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=Pallavi-kr6&style=for-the-badge)
 
