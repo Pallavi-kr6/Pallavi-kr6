@@ -56,5 +56,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi-kr6&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-kr6&layout=compact&theme=radical)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username= Pallavi-kr6)](https://github.com/pranesh-2005/github-readme-stats-fast)
