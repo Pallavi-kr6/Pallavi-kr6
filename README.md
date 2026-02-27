@@ -54,7 +54,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavisingh1536@gmail.com)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
