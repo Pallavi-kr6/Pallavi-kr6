@@ -56,4 +56,4 @@
 ---
 
 ## 📊 GitHub Stats
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username= Pallavi-kr6)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username= Pallavi-kr6)](https://github.com/Pallavi-kr6)/github-readme-stats-fast)
