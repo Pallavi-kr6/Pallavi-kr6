@@ -2,8 +2,7 @@
 
 💡 Passionate about **learning, exploring new things**, and building projects that create real impact.  
 🌱 Currently learning **MERN Stack Development** (MongoDB, Express, React, Node).  
-✨ Love collaborating on **open-source**, **web apps**, and beginner-friendly dev projects.  
-😄 Pronouns: **she/her**
+✨ Love collaborating on **open-source**, **web apps** 
 
 ---
 
