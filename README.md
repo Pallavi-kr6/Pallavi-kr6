@@ -1,27 +1,42 @@
-# Pallavi Kumari
+# 👋 Hi, I'm **Pallavi**  
 
-> Building things on the web. Interested in full-stack dev, applied AI, and open source.  
-> Currently deep in the MERN stack.
-
-📍 Delhi, India  ·  B.Tech Networking & Communication, SRM Institute  ·  Open to collaborate
-
----
-
-## stack
-
-**frontend** — HTML/CSS · JavaScript · Tailwind CSS · Bootstrap  
-**backend** — Node.js · Express.js · REST APIs  
-**databases** — MongoDB · PostgreSQL · MySQL · Supabase · Cloudinary  
-**languages** — Java · C · Python  
-**tools** — Git/GitHub · VS Code · Postman · Vercel · Render · Google Colab  
-**ai/ml** — NLP · Deep Learning · Image Processing
+💡 Passionate about **learning, exploring new things**, and building projects that create real impact.  
+🌱 Currently learning **MERN Stack Development** (MongoDB, Express, React, Node).  
+✨ Love collaborating on **open-source**, **web apps** 
 
 ---
 
-## interested in
+## 🚀 Tech Stack  
 
-`full-stack web` `open source` `applied AI` `hackathons` `mental health tech` `satellite imagery`
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-*currently learning MERN · always building something*
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-323F4B?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0AB27B?style=for-the-badge&logo=render&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+   
